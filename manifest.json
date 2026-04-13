@@ -1,0 +1,13 @@
+{
+  "background_color": "#0f1117",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bio India Labs",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BioIndia",
+  "start_url": "/",
+  "theme_color": "#00d4aa",
+  "description": "Wholesale Medicine Orders",
+  "id": "com.bioindia.medapp"
+}
