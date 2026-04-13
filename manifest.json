@@ -21,5 +21,20 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "dir": "auto",
+  "lang": "en",
+  "scope": "Bio India Labs",
+  "categories": [
+    "business",
+    "health",
+    "navigation"
+  ],
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "browser"
   ]
 }
